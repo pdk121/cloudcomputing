@@ -1,5 +1,4 @@
 runtime: python37
-api-version: 1
 threadsafe: true
 handlers:
 - url: /*
